@@ -1,0 +1,11 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://bfvt1ucbis8fd"]
+
+[ext_resource type="Shader" uid="uid://bpw13pry57ctp" path="res://Addons/Spectrum_support/Filter.gdshader" id="1_siv2e"]
+
+[resource]
+shader = ExtResource("1_siv2e")
+shader_parameter/filter_type = 0
+shader_parameter/severity = 1.0
+shader_parameter/brightness = 0.0
+shader_parameter/gamma = 1.0
+shader_parameter/hue_shift = 0.0

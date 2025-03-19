@@ -42,7 +42,8 @@ Su clasificación puede darse por la cantidad de tipos de pigmentos afectados. A
 # Media
 
 ### Showcase
-[![SpectrumSupport](https://i.imgur.com/8j8RsaB.png)](https://www.youtube.com/watch?v=-cCVabgf0T4)
+
+[![SpectrumSupport](https://img.youtube.com/vi/-cCVabgf0T4/maxresdefault.jpg)](https://youtu.be/-cCVabgf0T4)
 
 ### Filtro de Protanopia (dificultad con el rojo), Coche rojo sobre fondo verde.
 ![Protanopia](https://github.com/AnnieIsthar/SpectrumSupport/blob/aaa28f1ee44ad4066ffbd2d80fdabb050990d739/Screenshots/Protanopia.png)
